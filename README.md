@@ -1,5 +1,3 @@
-<h1 align="center">Álvaro Poblador Esteban</h1>
-
 ## 🛠 Technologies I Work With  
 
 ### 💻 Programming languages  
