@@ -12,5 +12,5 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alvaroelpob&layout=compact)  
 
 ## 📫 Contact Me  
-- Discord: **@alvaroelpob**  
+- Discord: **@alvaro.goofy**  
 - Email: [alvaro.poblador@mail.ru](mailto:alvaro.poblador@mail.ru)  
