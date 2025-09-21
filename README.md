@@ -1,4 +1,4 @@
-## 🛠 Technologies I Work With  
+## 🛠 Technologies I work with  
 
 ### 💻 Languages  
 [![Languages](https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,java)](https://skillicons.dev)  
