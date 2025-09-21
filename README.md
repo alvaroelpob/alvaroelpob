@@ -1,6 +1,6 @@
 ## 🛠 Technologies I Work With  
 
-### 💻 Programming languages  
+### 💻 Languages  
 [![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,cpp,java,rust)](https://skillicons.dev)  
 
 ### 🚀 Frameworks & libraries  
