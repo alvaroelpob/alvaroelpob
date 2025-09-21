@@ -1,7 +1,7 @@
 ## 🛠 Technologies I Work With  
 
 ### 💻 Languages  
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,c,java)](https://skillicons.dev)  
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,java)](https://skillicons.dev)  
 
 ### 🚀 Frameworks & libraries  
 [![Frameworks](https://skillicons.dev/icons?i=react,next,discordjs)](https://skillicons.dev)  
