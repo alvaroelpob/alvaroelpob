@@ -1,10 +1,10 @@
 ## 🛠 Technologies I Work With  
 
 ### 💻 Languages  
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,cpp,java,rust)](https://skillicons.dev)  
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,c,java)](https://skillicons.dev)  
 
 ### 🚀 Frameworks & libraries  
-[![Frameworks](https://skillicons.dev/icons?i=react,next,discordjs,tauri)](https://skillicons.dev)  
+[![Frameworks](https://skillicons.dev/icons?i=react,next,discordjs)](https://skillicons.dev)  
 
 ### 🗄️ Databases & backend  
 [![Databases](https://skillicons.dev/icons?i=mongo,sqlite,nodejs)](https://skillicons.dev)  
