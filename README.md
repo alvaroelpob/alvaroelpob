@@ -4,7 +4,7 @@ I'm a Computer Engineering student at Universitat Rovira i Virgili and a passion
 
 ### <ins>Available for Hire</ins>
 
-<ins>Whether you need a tailored Discord bot, a professional web, desktop, or mobile application, or a complete end-to-end system built from scratch, I can help bring your idea to life.</ins> You can contact me trough Discord: `alvaroelpob`
+<ins>Whether you need a tailored Discord bot, a professional web, desktop, or mobile application, or a complete end-to-end system built from scratch, I can help bring your idea to life.</ins><br/>You can contact me trough Discord: `alvaroelpob`
 
 ### Tech Stack
 
